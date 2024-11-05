@@ -42,7 +42,7 @@ As a last thing, ensure that pop-ups are allowed on your browser.
 
 Now you're all set and can use the following button to launch the service.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lescai-teaching/environment-bsa-rstudio)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/giuliabrusoni/class-rnaseq)
 
 Just click on "Continue (ctrl + enter)" to go on with the workspace set up.
 
